@@ -32,8 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Bomba.cpp" />
+		<Unit filename="Bomba.h" />
 		<Unit filename="Enemigo.cpp" />
 		<Unit filename="Enemigo.h" />
+		<Unit filename="Ghost.cpp" />
+		<Unit filename="Ghost.h" />
 		<Unit filename="Personaje.cpp" />
 		<Unit filename="Personaje.h" />
 		<Unit filename="main.cpp" />
