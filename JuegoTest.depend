@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1399664942 source:/home/kelvinosse/Documents/CodeProject/JuegoTest/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<string>
+	"Enemigo.h"
+	"Bomba.h"
+	"Ghost.h"
+	<vector>
+
+1399061805 source:/home/kelvinosse/Documents/CodeProject/JuegoTest/Enemigo.cpp
+	"Enemigo.h"
+
+1399664097 /home/kelvinosse/Documents/CodeProject/JuegoTest/Enemigo.h
+	<SDL/SDL.h>
+
+1399394340 source:/home/kelvinosse/Documents/CodeProject/JuegoTest/Personaje.cpp
+	"Personaje.h"
+
+1399394339 /home/kelvinosse/Documents/CodeProject/JuegoTest/Personaje.h
+
+1399661610 source:/home/kelvinosse/Documents/CodeProject/JuegoTest/Bomba.cpp
+	"Bomba.h"
+
+1399661643 /home/kelvinosse/Documents/CodeProject/JuegoTest/Bomba.h
+	<SDL/SDL_image.h>
+	"Enemigo.h"
+
+1399664784 source:/home/kelvinosse/Documents/CodeProject/JuegoTest/Ghost.cpp
+	"Ghost.h"
+
+1399664195 /home/kelvinosse/Documents/CodeProject/JuegoTest/Ghost.h
+	"Enemigo.h"
+	<SDL/SDL_image.h>
+
